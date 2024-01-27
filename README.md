@@ -1,2 +1,3 @@
 # ALPRO-TUGAS-1
-alpro-tugas-1
+NAMA : M Fauzi Nurjaman
+NIM  : I.2310890
